@@ -1,0 +1,13 @@
+{
+  "name": "mastodon-stats",
+  "version": "1.0.0",
+  "description": "Get easily the data from the about page of Mastodon instances.",
+  "main": "index.js",
+  "author": "Michael Vieira <contact+dev[at]mvieira[dot]fr>",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^0.22.0",
+    "express": "^4.15.2",
+    "request": "^2.81.0"
+  }
+}

@@ -1,0 +1,6 @@
+var config = {
+    "bind_host": "localhost",
+    "bind_port": 5000
+}
+
+module.exports = config;
