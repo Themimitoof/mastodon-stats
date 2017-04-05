@@ -1,7 +1,7 @@
 # Mastodon-Stats
 Get easily the data from the about page of Mastodon instances.
 
-This API is accessible without installing the server here: [https://mastodon-stats.themimitoof.fr](https://mastodon-stats.themimitoof.fr)
+This API is accessible without installing the server here: [https://mastodon-stats.themimitoof.fr](https://mastodon-stats.themimitoof.fr) (soon)
 
 ## Prerequisites
  * NodeJS
